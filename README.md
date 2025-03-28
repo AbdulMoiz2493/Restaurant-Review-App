@@ -83,7 +83,15 @@ REFRESH_TOKEN_EXPIRY=e.g: 30d
 All errors are handled centrally in the application. The API responses follow a consistent structure for errors and success messages.
 
 
-## License
+## ⚖️ License
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
+
+## 📧 Contact
+If you have any questions, feel free to reach out:
+- **Abdul Moiz**  
+- Email: abdulmoiz8895@gmail.com 
+- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
+```
  
