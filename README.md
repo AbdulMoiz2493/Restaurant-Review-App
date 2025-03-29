@@ -10,6 +10,7 @@ This repository contains the backend code for the Restaurant Review App. The bac
 4. [Environment Variables](#environment-variables)
 5. [Error Handling](#error-handling)
 6. [License](#license)
+7. [Contact](#contact)
 
 ## Features
 
