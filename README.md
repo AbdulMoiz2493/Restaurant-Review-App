@@ -44,7 +44,7 @@ This repository contains the backend code for the Restaurant Review App. The bac
 
    ```bash
    git clone https://github.com/AbdulMoiz2493/Restaurant-Review-App.git
-   cd servers 
+   cd server
    ```
 
 2. **Install dependencies:**
